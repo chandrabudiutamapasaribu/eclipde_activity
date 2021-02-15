@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleForm_Chandra</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="GoToHome">Home</string>
+    <string name="KembaliKeHome">Kembali</string>
+    <string name="Output">Output Will Show</string>
+    <string name="Simpan">Simpan</string>
+    <string name="Nama">Nama Lengkap</string>
+    <string name="Nis">Nomor Induk Siswa</string>
+    <string name="home_activity">Home Activity</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+
+</resources>
